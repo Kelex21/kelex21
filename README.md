@@ -1,6 +1,6 @@
 ### Hola 👋
 
-🤓 Hola,Bienvenido a mi perfil, Soy estudiante de Ingenieria de Software, Vivo para aprender y trabajo en diferentes proyecto.
+🤓 Hola, Bienvenido a mi perfil, soy estudiante de Ingenieria de Software, vivo para aprender...
 
 - 💼 Trabajando en **PeliDay**
 - 📚 Aprendiendo cada día algo nuevo...

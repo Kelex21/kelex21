@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/images/image-name.png">
+<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/images/image-name.png?raw=true">
 </div>
 <br />
 

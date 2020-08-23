@@ -1,6 +1,7 @@
-<h1 style="text-align:center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<img src="assets/images/image-name.png">
-
+<div align="center">
+<h1>Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/images/image-name.png">
+</div>
 <br />
 
 ### About me:
@@ -13,7 +14,7 @@
 
 ### My Languages:
 
-<p style="text-align:center">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/html.png?raw=true">
 <img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/css.png?raw=true">
 <img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/js.png?raw=true">
@@ -25,7 +26,7 @@
 
 ### Contact me:
 
-<p style="text-align:center">
+<p align="center">
 <a href="https://github.com/Kelex21" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/github.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/keiler-guardo-herrera-b68769173/" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/linkedin.png?raw=true"></a>
 <a href="mailto:keilerguardo@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/mail.png?raw=true"></a>
@@ -38,7 +39,7 @@
 
 ### My Stats:
 
-<div style="text-align:center">
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelex21&show_icons=true&count_private=true&include_all_commits&theme=gruvbox&hide_title=False) 
 

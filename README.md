@@ -1,6 +1,5 @@
+<h1 style="text-align:center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <img src="assets/images/image-name.png">
-
-<h3 style="text-align:center">Hi there 👋</h3>
 
 <br />
 
@@ -15,11 +14,11 @@
 ### My Languages:
 
 <p style="text-align:center">
-<img src="assets/languages/html.png">
-<img src="assets/languages/css.png">
-<img src="assets/languages/js.png">
-<img src="assets/languages/python.png">
-<img src="assets/languages/dart.png">
+<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/html.png?raw=true">
+<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/css.png?raw=true">
+<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/js.png?raw=true">
+<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/python.png?raw=true">
+<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/dart.png?raw=true">
 </p>
 
 <br />
@@ -27,12 +26,12 @@
 ### Contact me:
 
 <p style="text-align:center">
-<a href="https://github.com/Kelex21" target="_blank"><img src="assets/contact/github.png"></a>
-<a href="https://www.linkedin.com/in/keiler-guardo-herrera-b68769173/" target="_blank"><img src="assets/contact/linkedin.png"></a>
-<a href="mailto:keilerguardo@gmail.com" target="_blank"><img src="assets/contact/mail.png"></a>
+<a href="https://github.com/Kelex21" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/github.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/keiler-guardo-herrera-b68769173/" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/linkedin.png?raw=true"></a>
+<a href="mailto:keilerguardo@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/mail.png?raw=true"></a>
 <br/>
-<a href="https://twitter.com/KelexG21" target="_blank"><img src="assets/contact/twitter.png"></a>
-<a href="https://www.instagram.com/kelexg21/" target="_blank"><img src="assets/contact/instagram.png"></a>
+<a href="https://twitter.com/KelexG21" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/twitter.png?raw=true"></a>
+<a href="https://www.instagram.com/kelexg21/" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/instagram.png?raw=true"></a>
 </p>
 
 <br />

@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/images/image-name.png?raw=true">
 </div>
 <br />
@@ -8,11 +8,11 @@
 - 🎓 I am a Software Engineering Student
 - 🎯 Working on my specialization with Python
 - 🚀 Currently, I work and study every day to improve my skills and apply them in projects
-- 📡 Actively sought opportunities
+- 📡 Actively looking for projects to contribute my knowledge
 
 <br />
 
-### My Languages:
+### My languages:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/html.png?raw=true">
@@ -37,7 +37,7 @@
 
 <br />
 
-### My Stats:
+### My stats:
 
 <div align="center">
 

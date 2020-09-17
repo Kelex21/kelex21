@@ -41,6 +41,6 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelex21&show_icons=true&count_private=true&include_all_commits&theme=gruvbox&hide_title=False) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelex21&show_icons=true&count_private=true&include_all_commits&theme=gruvbox&hide_title=False&include_all_starts) 
 
 </div>

@@ -25,19 +25,6 @@
 
 <br />
 
-### Contact me:
-
-<p align="center">
-<a href="https://github.com/Kelex21" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/github.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/keiler-guardo-herrera-b68769173/" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/linkedin.png?raw=true"></a>
-<a href="mailto:keilerguardo@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/mail.png?raw=true"></a>
-<br/>
-<a href="https://twitter.com/KelexG21" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/twitter.png?raw=true"></a>
-<a href="https://www.instagram.com/kelexg21/" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/instagram.png?raw=true"></a>
-</p>
-
-<br />
-
 ### My stats:
 
 <div align="center">

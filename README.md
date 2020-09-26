@@ -6,7 +6,8 @@
 
 ### About me:
 - 🎓 I am a Software Engineering Student
-- 🎯 Working on my specialization with Python
+- 🌱 Interested in AI, ML 🤖
+- 🎯 I’m currently working on something cool 🤓
 - 🚀 Currently, I work and study every day to improve my skills and apply them in projects
 - 📡 Actively looking for projects to contribute my knowledge
 

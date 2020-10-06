@@ -8,7 +8,7 @@
 
 - 🎓 I am a Software Engineering Student
 - 🌱 Interested in AI,ML 🤖
-- 🎯 Working on cool projects 🤓
+- 🎯 Working on cool projects 🤓 
 - 🚀 Currently, I work and study every day to improve my skills and apply them in projects
 - 📡 Actively looking for projects to contribute my knowledge
 

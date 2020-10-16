@@ -51,6 +51,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelex21&layout=compact&hide_title=true&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelex21&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_title=true&include_all_starts)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelex21&show_icons=true&count_private=false&include_all_commits=true&theme=gruvbox&hide_title=true&include_all_starts=true)
 
 </div>

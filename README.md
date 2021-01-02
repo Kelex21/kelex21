@@ -1,56 +1,60 @@
 <div align="center">
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/images/name.png?raw=true">
+<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/images/header.png?raw=true">
 </div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/keiler-guardo-herrera-b68769173/" target="_blank"><img src="https://shields.io/badge/linkedin-222831?logo=linkedin&style=flat-square&logoColor=E84545"></a>
+<a href="https://twitter.com/KelexG21" target="_blank"><img src="https://shields.io/badge/Twitter-222831?logo=twitter&style=flat-square&logoColor=E84545"></a>
+<a href="https://www.instagram.com/kelexg21" target="_blank"><img src="https://shields.io/badge/Instagram-222831?logo=instagram&style=flat-square&logoColor=E84545"></a>
+<a href="https://dev.to/kelex21" target="_blank"><img src="https://shields.io/badge/Dev.to-222831?logo=dev.to&style=flat-square&logoColor=E84545"></a>
+
+</div>
+
 <br />
 
-### About me:
+## About me:
 
-- 🎓 I am a Software Engineering Student
-- 🌱 Interested in AI,ML 🤖
-- 🎯 Working on cool projects 🤓 
-- 🚀 Currently, I work and study every day to improve my skills and apply them in projects
+- 🎓 Software Engineering Student
+- 💻 Interested in web development
+- 🛠️ Working on cool projects 
 - 📡 Actively looking for projects to contribute my knowledge
+- ✍️ I Write blogs on dev.to on free days.
 
 <br />
 
-### My languages:
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/html.png?raw=true">
-<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/css.png?raw=true">
-<br />
-<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/js.png?raw=true">
-<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/python.png?raw=true">
-<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/sql.png?raw=true">
-<img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/languages/dart.png?raw=true">
-</div>
-
-<br />
-
-### Contact:
+## My Technologies & Tools:
 
 <div align="center">
 
+<img src="https://shields.io/badge/HTML-222831?logo=html5&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/CSS-222831?logo=CSS3&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/SCSS-222831?logo=Sass&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/Javascript-222831?logo=javascript&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/Dart-222831?logo=Dart&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/Flutter-222831?logo=Flutter&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/SQL-222831?logo=MySQL&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/Linux-222831?logo=Linux&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/Bash-222831?logo=GNU%20Bash&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/Git-222831?logo=git&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/GitHub-222831?logo=GitHub&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/Markdown-222831?logo=Markdown&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/Adobe%20XD-222831?logo=Adobe%20XD&style=flat-square&logoColor=E84545">
+<img src="https://shields.io/badge/VS%20Code-222831?logo=Visual%20Studio%20Code&style=flat-square&logoColor=E84545">
 
-<a href="https://twitter.com/KelexG21" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/twitter.png?raw=true"></a>
-<a href="https://www.instagram.com/kelexg21" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/instagram.png?raw=true"></a>
-
-<a href="https://github.com/Kelex21" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/github.png?raw=true"></a>
-<a href="mailto:keilerguardo@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/mail.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/keiler-guardo-herrera-b68769173/" target="_blank"><img src="https://raw.githubusercontent.com/Kelex21/kelex21/master/assets/contact/linkedin.png?raw=true"></a>
 
 
 </div>
 
 <br />
 
-### My stats:    
+## My GitHub Stats:
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelex21&layout=compact&hide_title=true&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelex21&show_icons=true&count_private=true&include_all_commits=false&hide_title=true&bg_color=222831&text_color=FFFFFF&icon_color=e84545&hide_border=false&theme=kacho_ga)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelex21&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelex21&layout=compact&hide_title=true&langs_count=6&bg_color=222831&text_color=FFFFFF&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

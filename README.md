@@ -12,8 +12,6 @@
 
 </div>
 
-<br />
-
 ## About me:
 
 - 🎓 Software Engineering Student

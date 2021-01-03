@@ -22,7 +22,7 @@
 
 <br />
 
-## My Technologies & Tools:
+## Technologies and Tools:
 
 <div align="center">
 

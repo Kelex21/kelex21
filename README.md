@@ -22,31 +22,6 @@
 
 <br />
 
-## Technologies and Tools:
-
-<div align="center">
-
-<img src="https://shields.io/badge/HTML-222831?logo=html5&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/CSS-222831?logo=CSS3&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/SCSS-222831?logo=Sass&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/Javascript-222831?logo=javascript&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/Dart-222831?logo=Dart&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/Flutter-222831?logo=Flutter&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/SQL-222831?logo=MySQL&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/Linux-222831?logo=Linux&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/Bash-222831?logo=GNU%20Bash&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/Git-222831?logo=git&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/GitHub-222831?logo=GitHub&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/Markdown-222831?logo=Markdown&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/Adobe%20XD-222831?logo=Adobe%20XD&style=flat-square&logoColor=E84545">
-<img src="https://shields.io/badge/VS%20Code-222831?logo=Visual%20Studio%20Code&style=flat-square&logoColor=E84545">
-
-
-
-</div>
-
-<br />
-
 ## My GitHub Stats:
 
 <div align="center">

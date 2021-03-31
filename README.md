@@ -17,7 +17,7 @@
 - 💻 Interested in web development
 - 🛠️ Working on cool projects 
 - 📡 Actively looking for projects to contribute my knowledge
-- ✍️ I Write blogs on dev.to on free days.
+- ✍️ I Write blogs on [dev.to](https://dev.to/kelex21) on free days.
 
 <br />
 
